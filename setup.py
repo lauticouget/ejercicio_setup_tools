@@ -13,7 +13,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url="https://github.com/lauticouget/ejercicio_setup_tools",
     project_urls={
-        "Bug Tracker": "https://github.com/institutohumai/ejercicio_setup_tools/issues"
+        "Bug Tracker": "https://github.com/lauticouget/ejercicio_setup_tools/issues"
     },
     license="None",
     packages=["humai_utils"],
